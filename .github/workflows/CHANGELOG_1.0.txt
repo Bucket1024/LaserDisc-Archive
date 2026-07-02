@@ -1,0 +1,6 @@
+LaserDisc Archive 1.0
+
+Created:
+- New blank LaserDisc Archive app based on VHS Archive framework.
+- Separate local storage keys from VHS Archive.
+- LaserDisc branding and blank starter collection.
